@@ -13,4 +13,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Initial release.
 
-[unreleased]: https://github.com/flxbe/bstruct/compare/v0.1.0...HEAD
+[unreleased]: https://github.com/flxbe/xdlint/compare/v0.1.0...HEAD
