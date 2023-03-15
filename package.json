@@ -1,6 +1,6 @@
 {
   "name": "xdlint",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A linter for xdatenfelder.",
   "type": "module",
   "bin": {
