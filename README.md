@@ -4,7 +4,7 @@
 
 Either use the linter directly via `npx`:
 
-```sh
+```txt
 npx xdlint [options] <path>
 ```
 
@@ -16,7 +16,7 @@ npm install -g xdlint
 
 The linter should now be available globally:
 
-```sh
+```txt
 xdlint [options] <path>
 ```
 
@@ -24,7 +24,7 @@ xdlint [options] <path>
 
 You can view all options by running `xdlint -h`.
 
-```sh
+```txt
 Usage: xdlint [options] <path>
 
 A linter for XDatenfelder v2.0.
