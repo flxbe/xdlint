@@ -7,10 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## 0.1.0 - 2023-03-14
+## 0.1.1 - 2023-03-14
 
 ### Added
 
 - Initial release.
 
-[unreleased]: https://github.com/flxbe/xdlint/compare/v0.1.0...HEAD
+[unreleased]: https://github.com/flxbe/xdlint/compare/v0.1.1...HEAD
