@@ -108,8 +108,8 @@ program
   .name("xdlint")
   .description("A linter for XDatenfelder v2.0.")
   .version("0.1.0")
-  .option("-s, --strict", "Fail if there are warnings.")
-  .argument("<path>", "Path to a folder or a XDatenfelder .xml file")
+  .option("-s, --strict", "fail not only for errors but also for warnings")
+  .argument("<path>", "path to a folder or a XDatenfelder .xml file")
   .action(async (path, options) => {
     const absolutePath = resolve(process.cwd(), path);
 
