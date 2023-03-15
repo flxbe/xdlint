@@ -1,7 +1,7 @@
 {
   "name": "xdlint",
   "version": "0.1.0",
-  "description": "",
+  "description": "A linter for xdatenfelder.",
   "type": "module",
   "bin": {
     "xdlint": "./dist/cli.js"
