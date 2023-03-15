@@ -107,7 +107,7 @@ async function checkFile(filepath: string): Promise<Result> {
 program
   .name("xdlint")
   .description("A linter for XDatenfelder v2.0.")
-  .version("0.1.0")
+  .version("0.1.2")
   .option("-s, --strict", "fail not only for errors but also for warnings")
   .argument("<path>", "path to a folder or a XDatenfelder .xml file")
   .action(async (path, options) => {
