@@ -1,5 +1,9 @@
 # xdlint
 
+[![CI](https://github.com/flxbe/xdlint/actions/workflows/test.yml/badge.svg)](https://github.com/flxbe/xdlint/actions/workflows/test.yml)
+
+A linter for the [XÖV](https://www.xoev.de/)-standard [XDatenfelder](https://www.xrepository.de/details/urn:xoev-de:fim:standard:xdatenfelder).
+
 ## Getting Started
 
 Either use the linter directly via `npx`:
